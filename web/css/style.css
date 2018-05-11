@@ -55,14 +55,14 @@ a:hover { text-decoration: none; }
 
 /* Start Main Menu */
 header {
-  /*background-image: url("../img/bg-1.jpg");
+  background-image: url("../images/fond-de-page_b-KS.png");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;*/
+  background-size: cover;
   padding: 235px 0;
-  /*margin-bottom: 60px;*/
-  /*background-attachment: fixed;*/
-  /*background-size: 100% 100%;*/
+  margin-bottom: 60px;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 ul#menu {
 background: #40475A none repeat scroll 0 0;
@@ -102,8 +102,9 @@ z-index: 999;
 }
 .header-content h4 {
   color: #fff;
-  font-size: 25px;
+  font-size: 20px;
   text-shadow: 1px 1px #333;
+  
 }
 .single-page-nav { text-align: center; }
 /* End Header CSS */
@@ -198,18 +199,19 @@ div#service-area-main {
 .our-service{
   margin:65px 0px 85px;
 }
-/*section#services-area {
-  background-image: url("../img/bg-2.jpg");
+section#services-area {
+  background-image: url("../images/fond-de-page_b-KS.png");
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-}*/
+}
 .service  h1 {
   color: #fff;
   text-transform: capitalize;
   text-shadow: 2px 2px #aaa;
   margin-bottom: 20px;
+  font-size: 20px; 
 }
 .service > p {
     color: #fff;
@@ -256,12 +258,12 @@ h2 {
 /* End Testimornial CSS */
 
 /* Start Contact CSS */
-/*section#contact-area {
-  background-image: url("../img/bg-3.jpg");
+section#contact-area {
+  background-image: url("../images/fond-de-page_b-KS.png");
   background-position: center center;
   background-size: cover;  
   background-attachment: fixed; 
-}*/
+}
 .contact-content h1 {
     color: #fff;
     text-transform: capitalize;
@@ -333,7 +335,7 @@ input {
 /* Scrool To top */
 /* Image style */
 #scrollUp {
-    background-image: url("../img/top.png");
+    background-image: url("../images/fond-de-page_b-KS.png");
     bottom: 20px;
     right: 20px;
     width: 38px;    /* Width of image */
